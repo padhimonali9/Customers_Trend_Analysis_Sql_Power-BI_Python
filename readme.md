@@ -32,7 +32,7 @@ This project analyzes customer shopping behavior across various product categori
 | Tool | Purpose |
 |---|---|
 | **Python (Pandas, NumPy)** | Data cleaning, EDA, feature engineering |
-| **PostgreSQL** | Structured SQL analysis |
+| **MySQL** | Structured SQL analysis |
 | **Power BI** | Interactive dashboard & visualization |
 
 ---
